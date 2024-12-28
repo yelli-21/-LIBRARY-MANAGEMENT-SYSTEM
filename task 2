@@ -1,0 +1,35 @@
+Library Management System
+1. Add new item
+2. List all items
+3. Checkout item
+4. Return item
+5. Search items
+6. Exit
+Enter your choice: 1
+Enter item type (book/magazine/dvd): book
+Enter title: Python Programming
+Enter category (e.g., Fiction, Science, etc.): Technology
+Enter author (leave blank if not applicable): John Doe
+Added new item: Title: Python Programming, Category: Technology, Author: John Doe, Type: book
+
+Library Management System
+1. Add new item
+2. List all items
+3. Checkout item
+4. Return item
+5. Search items
+6. Exit
+Enter your choice: 2
+Library Collection:
+Title: Python Programming, Category: Technology, Author: John Doe, Type: book
+
+Library Management System
+1. Add new item
+2. List all items
+3. Checkout item
+4. Return item
+5. Search items
+6. Exit
+Enter your choice: 3
+Enter title of the item to checkout: Python Programming
+Python Programming has been checked out. Due date is 2024-01-11
